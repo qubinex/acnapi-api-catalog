@@ -68,7 +68,7 @@ paths:
             type: string
       responses:
         '200':
-          description: Expected response to a valid request (dummuy)
+          description: Expected response to a valid request ()
           content:
             application/json:
               schema:
